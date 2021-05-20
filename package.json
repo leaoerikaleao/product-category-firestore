@@ -1,0 +1,14 @@
+{
+  "name": "product-category-firestore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erika Leão",
+  "license": "MIT",
+  "dependencies": {
+    "firebase-admin": "^9.8.0"
+  }
+}
