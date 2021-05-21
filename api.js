@@ -1,4 +1,5 @@
 const categories = require('./categories.js')
+const products = require('./products.js')
 
 const main = async () => {
    /*  await categories.create({
@@ -7,8 +8,8 @@ const main = async () => {
    //await categories.update('VhjDTyt5uquypShAdL6F', {category: "Categoria Atualizada!"})
    // await categories.remove('l97sDz3CuqzTYuVkhTAO')
 
-   const c = await categories.findAll()
-   console.log(c)
+   //const c = await categories.findAll()
+   //console.log(c)
 
    /*  const cats = await categories.findAllPaginated({ pageSize: 1, startAfter: 'twttetwtwt' })
    console.log(cats)
@@ -22,11 +23,11 @@ const main = async () => {
 
    //await products.addImage('58tHYixXJWROawRiFW4G', { description: 'new image', url: 'url' })
 
-   /* const p = await products.findAll()
+   const p = await products.findAll()
    console.log(p)
 
    const pPaginated = await products.findAllPaginated({ pageSize: 1, startAfter: '' })
-   console.log(pPaginated) */
+   console.log(pPaginated)
 
 
 }
