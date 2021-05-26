@@ -38,8 +38,8 @@
 </ul>
 
 <h2> Desenvolvido com:</h2>
-<a href="https://nodejs.org/en/" target="_blank">
-    <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<a href="https://www.javascript.com/" target="_blank">
+    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </a>
 
 <a href="https://firebase.google.com/" target="_blank">
